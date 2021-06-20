@@ -39,3 +39,6 @@ The special, magical part of a COVID-19 test isn’t the physical components of 
 The government restricts other manufacturers and providers from entering into the market and artificially keeps the price for the necessary components of tests high. So when there’s a demand spike for testing, like during the pandemic, either the price will go up or there will be shortages, with no way for new suppliers to come in and make up the difference.
 
 And frankly, though I hesitate to disagree with a Nobel prize winning economist's economic analysis, I suspect the true price of a test is even lower than that. The returns to scale from having other chemical manufacturers and device manufacturers enter into the market and drive down the output, and different modalities of service that could be provided in a competitive market (i.e. maybe regular people could be trained to swab someones nose and not doctors?) would drive the total cost lower still.
+
+
+## [[Rapid Testing]]

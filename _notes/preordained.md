@@ -21,3 +21,5 @@ These weaknesses were very evident in the initial response to COVID-19. They app
 https://twitter.com/KyleBogosian/status/1382372653445435395
 
 The lesson from the failures of the FDA in testing are we shouldn't have 'certifying' organizations, but that we shouldn't have a single org. Weneed a diversity of approaches and a diversity of organizations! Different groups with different leadership and different incentives, with some degree of competition, such that we’re never again in a situation where a single organization holds the fate of the country in its hands.
+
+## [[Testing Bottlenecks]]
