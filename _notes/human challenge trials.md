@@ -1,3 +1,7 @@
+---
+title: Human Challenge Trials
+---
+
 
 
 In our world, **regulatory constraints** set the speed limit for the initial research and development of the vaccine. 
@@ -30,3 +34,5 @@ The existence of a giant opaque bureaucracy with veto power over changes to proc
 One of the great problems that confront outsiders trying to change systems is that the **system** doesn't have a single face. When you try and change something that is run by a bureaucracy, inevitably you point at one person and they point at someone else and say that's your guy and then you go to that guy and he says 'I'm kind of responsible but actually you need to fill out form D-E in triplicate and then talk to the real guy in charge", and by the end all that energy and motivation to change things has dissipated into the aether.
 
 So its a far greater problem than simply a hidebound FDA that follows the advice of morally deficient bioethicists - though yes, that’s a big part of it - it’s that the FDA as an institution has a terrible incentive structure.
+
+## [[Capital over People]]

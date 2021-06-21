@@ -24,3 +24,5 @@ One of the more galling parts of this slowdown ‘for safety’ is that we didn�
 The list goes on. When it comes to experiments in human freedom, the FDA is more than willing to wing it.
 
 The alternative to approving rapid tests, or making the vaccine available on a voluntary basis, or letting people volunteer to test it (more on that in a second) wasn’t ‘oh we all just wait for this procedure’, it was continuing the lockdown intervention, where 325 million people were forced to take an experimental procedure whether they wanted to or not.
+
+## [[Human Challenge Trials]]

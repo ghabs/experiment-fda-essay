@@ -72,4 +72,4 @@ _from [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/20
 
 What we see is an entirely predictable correlation between the FDA declaring a vaccine could kill you and people deciding not to get vaccinated.
 
-
+## [[Commentary]]
