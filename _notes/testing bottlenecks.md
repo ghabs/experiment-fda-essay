@@ -23,6 +23,10 @@ Tests would be conducted and, because of these bottlenecks, the results might no
 Try reading it again but put on these sunglasses first.
 
 ![They Live Image](assets/they_live.png "They Live! No thanks to the FDA though")
+- There weren't doctors or nurses available to perform the swab tests because only a doctor or nurse was allowed to swab the inside of your nose. The FDA wouldn't accept a nasal swab test performed by someone with say, an hour of practice in swabbing noses? Seriously, how much do you think you need to practice to get the same performance of an MD in sticking cotton up someone’s nose. I can assure you it doesn't take four years of medical school.
+- Only licensed FDA approved labs could run tests, and repurposing existing labs for COVID-19 testing was ‘bottlenecked’ by approvals.
+- Reagents and PCR machines were similarly restricted because of FDA regulations on who could or couldn't make chemicals and machines.
+
 
 If there's a theme emerging here, it's that the **FDA constrained the supply side** of the testing market to such a degree that we were left helpless in the face of the virus. It's like if in WWII after Pearl Harbor instead of mobilizing the car manufacturers to make airplane engines, the government said 'no sorry the waitlist for becoming an airplane manufacturer takes a year, maybe you can get started on the paperwork'.
 

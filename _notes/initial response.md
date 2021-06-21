@@ -60,9 +60,6 @@ This insistence on a lengthy, bureaucratic process was matched by an unrelenting
 
 _Pictured - FDA commissioners demanding testing be stopped, February 2020_
 
-https://archive.ph/yMbPe
-
-https://archive.ph/B2IUi
 
 ![CDC Graph](assets/cdc_fda_testing_bottleneck.png)
 _from the CDC_

@@ -41,6 +41,6 @@ They're all running the same incentives and the same design, so we shouldn't be 
 
 Because, for the most part, everywhere in the world we're being regulated by the same type of person.
 
-![Pod People](assets/pod_people.png, "The pod people have already spread, they’re everywhere.")
+![Pod People](assets/pod_people.png "The pod people have already spread, they’re everywhere.")
 
 ## [[A Better Way]]

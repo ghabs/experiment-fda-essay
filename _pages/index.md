@@ -38,7 +38,7 @@ The following series of posts is that response, explaining the FDA, its role in 
 - [[Conclusion]]
 
 
-Attached to each posts, there are other notes explaining and elaborating on the core argument. In truth, that's because I'm a terrible editor - I can't kill my darlings. And, more than that, I think their's too much more that needs to be said. The main path is the starting point of the argument, but over time I hope to expand and extend it with supporting claims, and take your feedback into account to make it stronger, to truly chart the path of good intentions that led us to where we  and how we can find our way out.
+Attached to each posts are notes explaining and elaborating on the core argument. In truth, that's because I'm a terrible editor - I can't kill my darlings. And, more than that, I think there's too much more that needs to be said. The main path is the starting point of the argument, but over time I hope to expand and extend it with supporting claims, and take your feedback into account to make it stronger, to truly chart the path of good intentions that led us to where we and how we can find our way out.
 
 ## [[Setting the Stage]]
 
