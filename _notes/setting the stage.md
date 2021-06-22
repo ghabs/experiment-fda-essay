@@ -27,15 +27,15 @@ While Thalomide was not approved for use in the US, the public outcry in respons
 
 In the wake of the scandal, Kefauver’s amendment, even though it was not targeted at Thalomide, and even though the FDA was already regulating the safety, was passed. The effects of the amendment were massive - the FDA had to preclear all trials for drugs, for advertising, and for labeling. 
 
-Most consequently it required proof of efficacy that a drug worked. Up until then the FDA was designed to assess the safety of drugs, and ceertify that there were no adulterants. But after the amendment, they were also taksed with determine whether a drug was efficacious - whether it was effective enough to warrant being available to the public. This dramatically expanded the discretionary power of the FDA, as well as the cost and size of pre-market clinical trials.
+Most consequently it required proof of efficacy that a drug worked. Up until then the FDA was designed to assess the safety of drugs, and ceertify that there were no adulterants. But after the amendment, they were also taksed with determining whether a drug was efficacious - whether it was effective enough to warrant being available to the public.
 
-[chart of cost]
+![](assets/FDA-Spending-and-Employees-History-Chart-021.png)
 [chart of number of participants in medical]
 
-It also slowed down approvals of new drugs.
-
+This dramatically expanded the discretionary power of the FDA, as well as the cost and size of pre-market clinical trials.
 Critics of the expansion of the FDA over the past sixty years have alleged that this growth has slowed pharmaceutical approvals and acted as a barrier to competition in the pharmaceutical market.
-[chart]
+![](assets/spending-outputs.png)
+> Spending by the FDA’s Human Drugs Program has risen sharply in recent years, while the number of new drug reviews conducted by the FDA has remained essentially flat ([Fostering Resilience in the Medical Marketplace](https://www.niskanencenter.org/wp-content/uploads/old_uploads/2018/07/Fostering-Resilience-in-the-Medical-Marketplace.pdf))
 
 Supporters retort that empowering the FDA has prevented companies from taking advantage of people, that slower approvals mean safer approvals, and that the FDA has acted as a champion of good science. [tk links]
 
