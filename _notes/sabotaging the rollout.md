@@ -67,9 +67,5 @@ While defenders of the pause will frequently bring up that the action was necess
 
 This destruction of public confidence shows up in the vaccination rate before and after the pause.
 
-![Daily Vaccination Rates](assets/daily_vaccination_rates.png)
-_from [Marginal Revolution](https://marginalrevolution.com/marginalrevolution/2021/04/the-disastrous-jj-pause.html)_
-
-What we see is an entirely predictable correlation between the FDA declaring a vaccine could kill you and people deciding not to get vaccinated.
 
 ## [[Commentary]]

@@ -17,8 +17,11 @@ That’s not the world we live in.
 One of the more galling parts of this slowdown ‘for safety’ is that we didn’t wait to see if the vaccine was safe before administering it, we actually administered another drug called ‘lockdown’. Surprisingly, for an organization and bureaucracy that was very focused on ‘proper testing’, this intervention wasn’t tested by the FDA and the side-effects weren’t evaluated. We can see in hindsight there were many negative consequences:
 
 *   Trillions of dollars of lost economic activity
+
 *   Destruction of human capital and social capital from the loss of inperson ties.
+
 *   However much the general decrease in quality of living from not enjoying the outside world, being with loved ones, missing thanksgivings and Christmas’s and nephews birthdays.
+
 *   A tragic number of deaths.
 
 The list goes on. When it comes to experiments in human freedom, the FDA is more than willing to wing it.

@@ -15,12 +15,11 @@ In January 2021 the CDC created a test for COVID-19, and [submitted it to the FD
 
 However, troubling reports started coming in of bad results and bad data - state labs had discovered that the CDC’s test for COVID-19 had [serious performance issues](https://archive.ph/2aM17). 
 
-
 > By Feb. 8, hours after her lab started verifying the test kits, Rakeman said she began receiving panicked emails from colleagues. Something, they said, was wrong: They had run the tests dozens of times but were getting inconclusive results from two of the reagents, or chemicals, in the vials. Rakeman began calling other labs to see if they were experiencing the same problem, and they said they were. "It was very truly an 'oh, crap' moment," Rakeman said. "These reagents aren't working; everybody is waiting for us all over the city to have this test online. We think we have more cases than we've been able to detect and the test isn't working."
 
 In February and early March it was becoming obvious to everyone that COVID-19 was a problem, but it was unclear where it was, how fast it would spread - all of the pertinent details for organizing the response. The FDA approval of a flawed test slowed all of that down.
 
-But to err is human, to forgive and quickly get another test out, divine. To instead prevent everyone else from getting anything done and cripple the country's response to the worst pandemic in centuries, well now you’re acting like the FDA.
+But to err is human, to forgive and quickly get another test out, divine. To instead prevent everyone else from getting anything done -- well, now you’re acting like the FDA.
 
 ---
 
@@ -38,7 +37,6 @@ So groups like the Seattle Flu Study, a group staffed with excellent researchers
 
 As the urgency mounted, the Association of Public Health Laboratories, which represents American laboratories, made an unprecedented request to the commissioner of the FDA to make an exemption so that [state and local public health labs](https://www.reuters.com/article/us-china-health-usa-testing/tired-of-delays-u-s-labs-ask-fda-to-develop-their-own-coronavirus-tests-idUSKCN20I2G8?fbclid=IwAR0bR_A6trDC1iKOj48NRE0IfrtQhhTAz-hhi9UCI5XDFtGIcW9IqVy2pX4) could use the tests they had created.
 
-
 > [the FDA commissioner] responded two days later, saying in a letter that “false diagnostic test results can lead to significant adverse public health consequences” and that the laboratories were welcome to submit their own tests for emergency authorization.
 
 The strongest case for preventing novel tests or new labs from entering into the market, is that a test is introduced that gives the wrong results, either telling people they are sick when they aren't or they're healthy when they're not, which would introduce confusion, misuse of resources, and diminish overall trust in the system. 
@@ -47,11 +45,9 @@ But of course the problem is that the determination to prevent bad tests from en
 
 And the FDA failed to act, as the emergency authorizations would take months. The FDA bureaucrats fiddled with paperwork and continued their normal mode of operation while the country burned.
 
-
 > Alex Greninger and his colleagues at the University of Washington “spent almost a hundred hours filling out a baroque, thirty-page form, filing the authorization request on February 19th. Still no dice: he had e-mailed the material, and the F.D.A. insisted that he print it out and mail a hard copy, along with the digital file in physical form, such as a thumb drive or a CD, to a separate ‘documentation’ office.” [(New Yorker)](https://www.newyorker.com/magazine/2020/05/04/what-the-coronavirus-crisis-reveals-about-american-medicine)  
 
 This insistence on a lengthy, bureaucratic process was matched by an unrelenting drive to enforce it. This led to insane outcomes where, when researchers tried to sidestep the bureaucracy, they were threatened:
-
 
 > Later that day, the investigators and Seattle health officials gathered with representatives of the C.D.C. and the F.D.A. to discuss what happened. The message from the federal government was blunt. “What they said on that phone call very clearly was cease and desist to Helen Chu,” Dr. Lindquist remembered. “Stop testing.”
 

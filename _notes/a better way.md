@@ -2,6 +2,8 @@
 title: A Better Way
 ---
 
+So where is this all going? Perhaps you think I’m going to suggest that we destroy the FDA entirely. I confess to liking that idea, at times. But I don’t think it’s necessary to go that far.
+
 ## Repeal the Kefauver Harris amendment
 
 The first suggestion I'll forward, humbly is that we return to a period in time when the FDA worked.

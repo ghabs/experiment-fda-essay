@@ -5,7 +5,9 @@ id: home
 permalink: /
 ---
 
-# [DRAFT] 
+**[DRAFT v0.6] Please don't share and please provide [feedback on the Google Doc](https://docs.google.com/document/d/15Qv0hAJQuGTBQvwne8HlK0hmVNgIcuT-ZHex2ZLLgh0/edit#). Thanks!**
+
+
 ## The FDA, COVID-19, and how Institutional Incompetence Exacerbated the Pandemic
 
 This is an incomplete account of how the FDA and the medical establishment completely failed America in fighting COVID-19, and how they actively made the pandemic worse. They prevented individuals and companies from creating and providing timely solutions, causing the deaths of hundreds of thousands of people and trillions of dollars of lost economic output.
@@ -37,8 +39,7 @@ The following series of posts is that response, explaining the FDA, its role in 
 - [[A Better Way]]
 - [[Conclusion]]
 
-
-Attached to each posts are notes explaining and elaborating on the core argument. In truth, that's because I'm a terrible editor - I can't kill my darlings. And, more than that, I think there's too much more that needs to be said. The main path is the starting point of the argument, but over time I hope to expand and extend it with supporting claims, and take your feedback into account to make it stronger, to truly chart the path of good intentions that led us to where we and how we can find our way out.
+The main path is the starting point of the argument, while there are ‘notes’ within sections that elaborate and expand upon certain contentions. Over time I hope to expand this to create a truly comprehensive depiction of how good intentions led us to where we are and how we can find our way out.
 
 ## [[Setting the Stage]]
 

@@ -10,10 +10,9 @@ Put bluntly, the vaccines were a triumph only in that people overrode the defaul
 
 Even still, the FDA managed to make decision after decision that cost time, money, and lives, in a truly impressive attempt to snatch defeat from the jaws of victory.
 
-The overarching framework, when evaluating the performance of the FDA when it comes to vaccines, needs to be viewed in the context of a pandemic where two to three thousand people were dying every day, and where we could be extremely confident that number could spike due to any number of heterogeneous factors (seasonal factors, new variants, etc.). From this point of view speed is far in front of the rest of the pack. It needs to be safe, it needs to be effective, but it needs to be here now.
+In the midst of a pandemic, speed becomes a top priority. All of the FDA’s actions should be evaluated in light of the importance of swift action. While safety is, of course, still important, priorities shift when hundreds of thousands of people are about to die. In viral wartime, vaccines need to be safe, they need to be effective, but they also need to be here now.
 
 The FDA repeatedly added stumbling blocks to the process, trying to turn operation warp speed into operation '30mph is good enough for government work'. Their day -to- day operations betray a culture that couldn't truly get behind moving fast and prioritizing speed of development. 
-
 
 ### Some Examples
 
@@ -48,7 +47,6 @@ Before this final review, they had slowed the process down even more, by pressur
 >The FDA’s surprise October decision to require more follow-up data for vaccine trials than they do for other drugs conflicts with the FDA’s regular process. 
 
 https://thedispatch.com/p/fda-career-staff-are-delaying-the \
-
 
 This pushed the vaccine release date back another month! During the period when the vaccine could have been approved, COVID deaths were the leading cause of death in the country.
 
