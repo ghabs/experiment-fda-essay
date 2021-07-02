@@ -28,13 +28,11 @@ If we had run human challenge trials, we could have known in late spring, early 
 
 The list goes on.
 
-The FDA declared they wouldn’t accept Human Challenge Trials as an alternative method for vaccine development, and as discussed there’s no alternative to the FDA. 
+However, the FDA declared they wouldn’t accept Human Challenge Trials as an alternative method for vaccine development, and as discussed there’s no alternative to the FDA, so that was that. The FDA's singular veto power meant there wasn't a path for human challenge trials.
 
-This despite the fact that the public at large supported the idea - in a survey XX% support human challenge trials. The people who oppose human challenge trials, who cry out it’s not ethical to purposely infect others, are a closetted group of bioethicists.
+This despite the fact that the public at large supported the idea - in a survey XX% support human challenge trials. The people who oppose human challenge trials, who cry out it’s not ethical, are in the minority and in poor company, as it's worth noting that the worlds leading consequentialist and deontological ethical philosophers, along with many others, [signed an open letter calling for human challenge trials](https://www.1daysooner.org/us-open-letter).
 
 In a world where, in April 2020, we had paid a billion dollars to the first group that had run a human challenge trial that met the highest quality of scientific review and published open data backing up all their claims, how long do you think it would have taken for this trial to be run? It only seems like there are too many moving pieces because we have some form of stockholm syndrome from a lifetime of FDA trials taking years; people can move faster than that safely!
-
-The existence of a giant opaque bureaucracy with veto power over changes to process mean that there wasn't a way to experiment with human challenge trials - for activists trying to change things they would undoubtedly needed to lobby a great number of people, none of whom have the power to say yes but all who can say no.
 
 One of the great problems that confront outsiders trying to change systems is that the **system** doesn't have a single face. When you try and change something that is run by a bureaucracy, inevitably you point at one person and they point at someone else and say that's your guy and then you go to that guy and he says 'I'm kind of responsible but actually you need to fill out form D-E in triplicate and then talk to the real guy in charge", and by the end all that energy and motivation to change things has dissipated into the aether.
 

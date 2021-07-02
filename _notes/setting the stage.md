@@ -2,8 +2,6 @@
 title: Setting the Stage
 ---
 
-
-
 The FDA, or Food and Drug Administration, is a federal agency responsible for approving drugs and medical devices. They also monitor and regulate food safety, but for the sake of this discussion we're only going to focus on the medical part of their remit.
 
 The received wisdom on the FDA is that they're the best of the best. To quote from the FDA website.
@@ -32,18 +30,16 @@ While Thalomide was not approved for use in the US, the public outcry in respons
 
 > At that time, the U.S. Food and Drug Administration had limited authority to require efficacy standards or disclose risks. Kefauver was accused of expanding the power of government excessively, interfering with the freedom of doctors and patients, and threatening the viability of the pharmaceutical industry. His legislation seemed likely to fail. (https://en.wikipedia.org/wiki/Estes_Kefauver)
 
-In the wake of the scandal, Kefauver’s amendment, even though it was not targeted at Thalomide, and even though the FDA was already regulating the safety, was passed. The effects of the amendment were massive - the FDA had to preclear all trials for drugs, for advertising, and for labeling. 
+In the wake of the scandal, Kefauver’s amendment, even though it was not targeted at Thalomide, and even though the FDA was already regulating the safety, was passed. The effects of the amendment were massive - the FDA had to preclear all medical trials, and most consequently it required proof of efficacy that a drug worked. 
 
-Most consequently it required proof of efficacy that a drug worked. Up until then the FDA was designed to assess the safety of drugs, and certify that there were no adulterants. But after the amendment, they were also tasked with determining whether a drug was efficacious - whether it was effective enough to warrant being available to the public. This dramatically expanded the discretionary power of the FDA, as well as the cost and size of pre-market clinical trials.
-
+Up until that point the FDA was designed to assess the safety of drugs, and certify that there were no adulterants. But after the amendment, they were also tasked with determining whether a drug was efficacious - whether it was effective enough to warrant being available to the public. This dramatically expanded the discretionary power of the FDA, as well as the cost and size of pre-market clinical trials.
 
 ![](assets/FDA-Spending-and-Employees-History-Chart-021.png)
-[chart of number of participants in medical]
 
-This dramatically expanded the discretionary power of the FDA, as well as the cost and size of pre-market clinical trials.
-Critics of the expansion of the FDA over the past sixty years have alleged that this growth has slowed pharmaceutical approvals and acted as a barrier to competition in the pharmaceutical market.
-![](assets/spending-outputs.png)
-> Spending by the FDA’s Human Drugs Program has risen sharply in recent years, while the number of new drug reviews conducted by the FDA has remained essentially flat ([Fostering Resilience in the Medical Marketplace](https://www.niskanencenter.org/wp-content/uploads/old_uploads/2018/07/Fostering-Resilience-in-the-Medical-Marketplace.pdf))
+This dramatically expanded the discretionary power of the FDA, as well as the cost and size of pre-market clinical trials. Critics of the expansion of the have alleged that this growth has slowed pharmaceutical approvals and acted as a barrier to competition in the pharmaceutical market.
+
+![](assets/petzman_chart_large.png)
+> Peltzman created a statistical model to predict the yearly number of new drug introductions... [it ]tracks the pre-1962 drug market quite well, we have some confidence that if all else had remained equal, the model also should have roughly tracked the post-1962 drug market. Peltzman’s model, in other words, estimates the number of new drugs that would have been produced if the FDA’s powers had not been increased in 1962. Thus, by comparing the model results with the actual number of new drugs, we can draw an estimate of the effect of the 1962 amendments. [FDA Review](https://www.fdareview.org/issues/theory-evidence-and-examples-of-fda-harm/)
 
 Supporters retort that empowering the FDA has prevented companies from taking advantage of people, that slower approvals mean safer approvals, and that the FDA has acted as a champion of good science. [tk links]
 

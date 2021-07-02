@@ -6,7 +6,7 @@ So where is this all going? Perhaps you think I’m going to suggest that we des
 
 ## Repeal the Kefauver Harris amendment
 
-The first suggestion I'll forward, humbly is that we return to a period in time when the FDA worked.
+The first suggestion I'll forward, is that we return to a period in time when the FDA worked.
 
 The FDA went sideways when they were tasked with evaluating and approving drugs for efficacy instead of just safety. This ballooned costs, slowed down drug approval, and greatly expanded its control over the pharmaceutical industry in distortionary ways. We can trace the testing and vaccine delays back to this 1962 law that transformed the FDA into a central committee of medicine.
 
@@ -16,12 +16,20 @@ _Q: How would we know if the drugs are effective then?_
 
 There would still be strong incentives for pharmaceutical companies to complete phase III and phase IV clinical trials, to provide evidence to doctors and to insurance companies that the drugs work, otherwise they wouldn't get prescribed or reimbursed. Furthermore, government regulators could still offer certifications of the efficacy of the drugs, on an optional basis.
 
+And in point of fact, the effectiveness testing by the FDA is not all that effective!
+
+> To understand how little the FDA’s two-hurdle approach contributes, consider Merck’s Keytruda (pembrolizumab), which has recently become one of the hottest drugs on the market. Keytruda got some good press after Jimmy Carter, who was suffering from melanoma, was diagnosed as cancer-free after taking it. Mr. Carter was lucky because in one clinical trial Keytruda destroyed or reduced the tumors in only 34% of patients. Keytruda—which was the fourth biggest-selling drug globally in 2018 and brought in worldwide revenues of $11.1 billion last year—is far from a sure thing.
+
+> Does the FDA, which approved Keytruda as safe and effective for melanoma, know which patients will benefit from it? No. The potential benefits described on the drug’s label are what happened to strangers in another time and place. Patients still have to try Keytruda to know if it will help them. An FDA approval for efficacy is largely duplicative. [Source](https://www.wsj.com/articles/fda-shouldnt-keep-safe-drugs-off-the-market-11585175286)
+
+Trial and experimentation is still necessary at the local level, by doctors with their patients. We should embrace that true method of discovery and let it happen earlier in the process, as soon as a drug is considered safe.
+
 
 ## Good housekeeping seal of approval
 
 We can think of this as an FDA seal of approval. Given, as the FDA so likes to mention, it's the gold standard for drug approvals, than having an FDA seal certifying that a drug is effective at the FDA’s level would be a major selling point for pharmaceutical companies.
 
-This could also be done by a secondary, separate agency, or a set of private companies which could evaluate the efficacy of the drugs. Similar to the financial markets, private companies could be the certifying accountants of the medical world/
+This could also be done by a secondary, separate agency, or a set of private companies which could evaluate the efficacy of the drugs. Similar to the financial markets, private companies could be the certifying accountants of the medical world.
 
 _Q: Why multiple companies/multiple agencies?_
 
@@ -30,18 +38,18 @@ One of the biggest problems with the FDA is the soft coercive power they exercis
 With competition, where a regulator has to compete against other regulators, this is less likely to happen and they're more likely to balance their interests with those of the market.
 
 
-## peer regulator approval
+## Peer regulator approval
 
 When the UK approved the J&J vaccine and the US didn't, why did an American need to solely rely on the wisdom of the US FDA? I personally think people in the United Kingdom can be as smart as Americans, and you know it seems entirely possible that I could trust the judgement of their regulators over the FDA
 
 For the same reasons that I'm allowed to buy Japanese cars, I should be able to buy and use medicine that's approved in other parts of the world.
 
-A critique of the peer approval approach is that there are[ not many efficacious drugs in the world not approved by the FDA](https://archive.ph/S6DBQ) and giving congress a say in the vaccine approval process would politicize the approval process.
+The Peer Regulator approach would recognize a number of other medical approval agencies as being up to a base level of competency such that should someone want to use a drug approved by one of them, they can. A 2015 bill introduced in Congress - [the RESULT Act](https://www.cruz.senate.gov/files/documents/Bills/20151211_FDA.pdf) - would have allowed for reciprocal approval of drugs, devices and biologics from certain countries includeing EU member countries, Israel, Canada, and Japan.
+ 
+A critique of the peer approval approach is that there are [not many efficacious drugs in the world not approved by the FDA](https://archive.ph/S6DBQ) and giving congress a say in the vaccine approval process would politicize the approval process. While true, I believe this misses that it would improve the medical drug and device ecosystem. A startup could develop new drugs and release in multiple areas, weakening the singular veto power of the FDA.
 
-This misses the point that it's about encouraging novel innovation and speed - a startup could develop and release in multiple areas, and weakens the singular authority of the FDA.
 
-
-## progressive approval regime
+## Progressive Approval regime
 
 In a progressive approval regime drugs would be approved after they pass Phase I and Phase II testing for safety, but would continue through later Phase III and Phase IV testing, and market surveillance for side effects and efficacy. This is a slightly weaker version of the pre-1962 proposal - in this case the FDA still has authority over what drugs are in the market, but changes their evaluation methods and biases them towards action and approval, counteracting their natural bureaucratic incentives.
 
@@ -59,5 +67,5 @@ It's a great start; it ratifies a key ethical intuition that access to medicine 
 Of course, we're all dying, every day, and we all have different preferences for risk when it comes to medicine. Expanding right- to- try legislation to cover more cases and to be more of a 'right'.
 
 
-*   As part of clinical testing, companies should have to agree to provide medicine in right to try cases: One of the deficiencies of current Right to Try laws and implementations is the incentive structure for companies, who need to agree to provide the drug to right to try patients . For the companies, they risk pissing off the FDA or getting negative real world results that could upset carefully managed trials.
+*   As part of clinical testing, companies should potentiallyhave to agree to provide medicine in right to try cases: One of the deficiencies of current Right to Try laws and implementations is the incentive structure for companies, who need to agree to provide the drug to right to try patients. For the companies, they risk pissing off the FDA or getting negative real world results that could upset carefully managed trials.
 *   Expand eligibility for right to try: People with chronic illnesses or severe, even if not life threatening, conditions, should not have to suffer for decades while waiting for more clinical trials to complete. They should be eligible to elect, in consultation with their doctor, to use a new drug.

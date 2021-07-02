@@ -11,7 +11,7 @@ Uncertainty and fear were everywhere, and Chinese officials suppressed the news,
 
 In the US epidemiologist mailing lists and slacks were abuzz, and discussion was starting about the likely severity, and the consequences, of this new virus. 
 
-In January 2021 the CDC created a test for COVID-19, and [submitted it to the FDA for approval](https://archive.ph/GMJj8). They approved the test, sending it out into the field.
+In January 2021 the [[CDC]] created a test for COVID-19, and [submitted it to the FDA for approval](https://archive.ph/GMJj8). They approved the test, sending it out into the field.
 
 However, troubling reports started coming in of bad results and bad data - state labs had discovered that the CDC’s test for COVID-19 had [serious performance issues](https://archive.ph/2aM17). 
 
@@ -57,10 +57,10 @@ This insistence on a lengthy, bureaucratic process was matched by an unrelenting
 _Pictured - FDA commissioners demanding testing be stopped, February 2020_
 
 
-![CDC Graph](assets/cdc_fda_testing_bottleneck.png)
-_from the CDC_
 
-The CDC and the FDA prevented America from ramping up testing when it was needed the most.
+The CDC and the FDA prevented America from ramping up testing when it was needed the most, as is clearly evident in this graph of testing
+![CDC Graph](assets/cdc_fda_testing_bottleneck.png)
+_source: [Center for Growth and Opportunity](https://www.thecgo.org/news/regulatory-uncertainty-made-covid-responses-difficult/)_
 
 ----
 
