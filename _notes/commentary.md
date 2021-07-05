@@ -2,7 +2,7 @@
 title: Commentary
 ---
 
-Right now I’m writing this as we’re learning about a massive spike in India COVID-19 cases [tk link]. Hospitals are overwhelmed, fatalities are likely being under reported, and it seems like the worst case fears, of a collapse of a countries medical system, might come to pass in the worlds second most populous nation.
+Right now I’m writing this as we’re [learning about a massive spike in India COVID-19 cases](https://archive.ph/U4bLT). Hospitals are overwhelmed, fatalities are likely being under reported, and it seems like the worst case fears, of a collapse of a countries medical system, might come to pass in the worlds second most populous nation. Variants of the COVID virus are spreading in unvaccinated countries and regions.
 
 But I’m also writing this as America starts to return to normal. The disconnect between the two realities is startling, how the pandemic is ending here but is raging at its worst halfway around the globe.
 

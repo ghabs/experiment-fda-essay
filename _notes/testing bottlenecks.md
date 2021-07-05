@@ -6,7 +6,7 @@ This failure to test would continue throughout 2020. America drastically underpr
 
 There were many proposals to 'flood the zone' with tests, but we never got to the point that they were truly 'available' in such a way that anyone could use them.
 
-[tk insert diagram]
+---
 
 A testing regime is like a manufacturing process, in that it contains lots of discrete steps which can go wrong in separate ways. The first step in the process is you notice that you're feeling sick. At that point, you need to decide if you're going to go to a clinic to get tested. Inputs to that decision might be how far away, how much you **think** it will cost, how useful the information will be you get; all factors.
 
@@ -25,7 +25,6 @@ Tests would be conducted and, because of these bottlenecks, the results might no
 Try reading it again but put on these sunglasses first.
 
 ![They Live Image](assets/they_live.png "They Live! No thanks to the FDA though")
-
 
 *   There weren't doctors or nurses available to perform the swab tests because only a doctor or nurse was allowed to swab the inside of your nose. The FDA wouldn't accept a nasal swab test performed by someone with say, an hour of practice in swabbing noses? Seriously, how much do you think you need to practice to get the same performance of an MD in sticking cotton up someone’s nose. I can assure you it doesn't take four years of medical school.
 *   Only licensed FDA approved labs could run tests, and repurposing existing labs for COVID-19 testing was ‘bottlenecked’ by approvals.

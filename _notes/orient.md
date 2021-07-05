@@ -12,4 +12,4 @@ Drawing from the classic Observe-Orient-Decide-Act model proposed by Col. John B
 
 While all of the steps are important, I posit that the importance of orienting to new information and having the right mental stance to deal with it is where the FDA failed.
 
-1. In actuality it's a lot more complicated than that, and the OODA loop as drawn and discussed is full of epicycles and parts not fully encapsulated by this four letter phrase. But that's not necessary to dive into for understanding just why it's important that an organization can integrate information into their worldview quickly.
+1. In actuality it's a lot more complicated than that, and the OODA loop as drawn and discussed is full of epicycles and parts not fully encapsulated by this four letter acronym. But that's not necessary to dive into for understanding just why it's important that an organization can integrate information into their worldview quickly.

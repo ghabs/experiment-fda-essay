@@ -2,16 +2,15 @@
 title: Sabotaging the Rollout
 ---
 
-
-Administering vaccines was its own process, and one that the FDA also had authority to manage. On crucial parts they elevated the process over good judgement, costing lives.
+Developing and approving the vaccines was the first step, but the next step was as important: administering them across the country. Two case stuides in particular demonstrate the tendency of the FDA to innapropriately prioritize their bureaucratic processes over human lives.
 
 **First Doses First**
 
-At the beginning of the rollout there was an administrative choice countries around the world faced; how to prioritize vaccine administration. While there were major choices to be made around giving it to the elderly or front line workers, there was a hidden assumption that went unchecked for far too long. For the vaccines that required two doses for full effect, should we try and get everyone a single dose first before giving people second doses? 
+At the beginning of the rollout there was an administrative choice countries around the world faced; who should receive the vaccine first? While there were major choices to be made around giving it to the elderly or front line workers, there was a hidden assumption that went unchecked for far too long. For the vaccines that required two doses for full effect, should we try and get everyone a single dose first before giving people second doses? 
 
-This was an important question because if a single dose provided enough protection to slow  the spread of the virus, then giving more people the virus faster could dramatically cut the time to population level immunity. 
+This was an important question because if a single dose provided enough protection to slow the spread of the virus, then giving more people the virus faster could dramatically cut the time to population level immunity. 
 
-However it was a question that regulators like the FDA were uninterested in. Because the clinical trials had been carried out with two doses, t[o change the administration protocol was beyond the pale.](https://www.fda.gov/news-events/press-announcements/fda-statement-following-authorized-dosing-schedules-covid-19-vaccines)
+However it was a question that regulators like the FDA were uninterested in. Because the clinical trials had been carried out with two doses, [to change the administration protocol was beyond the pale.](https://www.fda.gov/news-events/press-announcements/fda-statement-following-authorized-dosing-schedules-covid-19-vaccines)
 
 People like [Alex Tabarrok campaigned](https://marginalrevolution.com/marginalrevolution/2021/01/first-doses-first-and-herd-immunity.html) for this to be reevaluated, to little success in the US, though other countries like the UK and Canada embraced it. 
 
@@ -21,7 +20,7 @@ This trend continues, with the FDA and others [ignoring the potential benefits o
 
 **Johnson and Johnson**
 
-And there were existing vaccines that were effective with a single dose; for instance, the third approved vaccine, Johnson & Johnson, only required a single shot, and it used a more traditional method of vaccination. The Moderna and Pfizer options were using the novel, mRNA (tk) approach - up until March 2021 if you felt concerned about the new vaccination technique you could go with the one that J&J employed.
+And there were existing vaccines that were effective with a single dose; for instance, the third approved vaccine, Johnson & Johnson, only required a single shot, and it used a more traditional method of vaccination. The Moderna and Pfizer options were using the novel, mRNA approach - up until March 2021 if you felt concerned about the new vaccination technique you could go with the one that J&J employed.
 
 However, I said up until March 2021, because at that point the FDA decided to be ‘extra cautious’ and destroy the reputation of the J&J vaccine.
 
@@ -66,6 +65,5 @@ And of course we’re in the middle of a global deadly pandemic; just existing i
 While defenders of the pause will frequently bring up that the action was necessary in order to ensure people trust the vaccines, the polling before and after the pause show how much it [actually destroyed public confidence in vaccines](https://today.yougov.com/topics/politics/articles-reports/2021/04/15/johnson-johnson-vaccine-confidence).
 
 This destruction of public confidence shows up in the vaccination rate before and after the pause.
-
 
 ## [[Commentary]]

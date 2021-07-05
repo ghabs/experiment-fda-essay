@@ -82,6 +82,6 @@ Creative solutions to expand access to testing were either never implemented or 
 
 > But now, when the nation desperately needs more coronavirus tests to get a handle on the virus’s spread, this efficient approach has become worthless in many places, in part because there are simply too many cases to catch
 
-Healthy institutions respond quickly and [[orient]] to new information. They determine whether it's accurate, how much to trust it, and what this implies about the world and the actions the org needs to take. Unhealthy institutions react slower than the events, orienting to the information at a pace that is eclipsed by other actors and by new events. The FDA’s slow response revealed just how sick they are.
+Healthy institutions respond quickly and orient to new information. They determine whether it's accurate, how much to trust it, and what this implies about the world and the actions the org needs to take. Unhealthy institutions react slower than the events, orienting to the information at a pace that is eclipsed by other actors and by new events. The FDA’s slow response revealed just how sick they are.
 
 ## [[Preordained]]
