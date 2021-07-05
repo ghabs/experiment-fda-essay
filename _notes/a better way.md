@@ -4,6 +4,8 @@ title: A Better Way
 
 So where is this all going? Perhaps you think I’m going to suggest that we destroy the FDA entirely. I confess to liking that idea, at times. But I don’t think it’s necessary to go that far.
 
+**The key is to remove the FDA as a bottleneck**. Policy reform should be targeted at decreasing the singular, discretionary veto power of the FDA and increasing a diversity of approval paths for new drugs.
+
 ## Repeal the Kefauver Harris amendment
 
 The first suggestion I'll forward, is that we return to a period in time when the FDA worked.
@@ -22,12 +24,11 @@ And in point of fact, the effectiveness testing by the FDA is not all that effec
 
 > Does the FDA, which approved Keytruda as safe and effective for melanoma, know which patients will benefit from it? No. The potential benefits described on the drug’s label are what happened to strangers in another time and place. Patients still have to try Keytruda to know if it will help them. An FDA approval for efficacy is largely duplicative. [Source](https://www.wsj.com/articles/fda-shouldnt-keep-safe-drugs-off-the-market-11585175286)
 
-Trial and experimentation is still necessary at the local level, by doctors with their patients. We should embrace that true method of discovery and let it happen earlier in the process, as soon as a drug is considered safe.
-
+Trial and experimentation is still necessary at the local level, by doctors with their patients. We should embrace that true method of discovery and let it happen earlier in the process, as soon as a drug is tested for safety.
 
 ## Good housekeeping seal of approval
 
-We can think of this as an FDA seal of approval. Given, as the FDA so likes to mention, it's the gold standard for drug approvals, than having an FDA seal certifying that a drug is effective at the FDA’s level would be a major selling point for pharmaceutical companies.
+Given, as the FDA so likes to mention, it's the gold standard for drug approvals, than having an FDA seal certifying that a drug is effective at the FDA’s level would be a major selling point for pharmaceutical companies.
 
 This could also be done by a secondary, separate agency, or a set of private companies which could evaluate the efficacy of the drugs. Similar to the financial markets, private companies could be the certifying accountants of the medical world.
 
