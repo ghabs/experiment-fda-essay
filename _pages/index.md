@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-**[DRAFT v0.6] Please don't share and please provide [feedback on the Google Doc](https://docs.google.com/document/d/15Qv0hAJQuGTBQvwne8HlK0hmVNgIcuT-ZHex2ZLLgh0/edit#). Thanks!**
+**[DRAFT v0.7]**
 
 
 ## The FDA, COVID-19, and how Institutional Incompetence Exacerbated the Pandemic
