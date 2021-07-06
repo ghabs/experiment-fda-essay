@@ -12,7 +12,7 @@ Not only is their turnaround faster, they could also be significantly cheaper. $
 
 ![rapid tests](assets/rapid_tests.png "Rapid Testing Comparison")
 
-Rapid tests were first ‘invented’ in May, but they weren’t meaningfully approved for use until December, and even then only in a crippled, more expensive form. A quick, cheap test that can tell if someone is infectious could have been rolled out across the country. As Michael Mina, an advocate for rapid testing [wrote](https://archive.ph/wN6hG):
+[Rapid tests were first ‘invented’ in April](https://archive.ph/Yw8eq), but they weren’t meaningfully approved for use until December, and even then only in a crippled, more expensive form. A quick, cheap test that can tell if someone is infectious could have been rolled out across the country. As Michael Mina, an advocate for rapid testing [wrote](https://archive.ph/wN6hG):
 
 > The U.S. government can produce and pay for a full nation-wide rapid antigen testing program at a minute fraction (0.05% – 0.2%) of the cost that this virus is wreaking on our economy.
 
