@@ -2,7 +2,7 @@
 title: conclusion
 ---
 
-In the end hundreds of thousands of Americans have died over the past year because of broken institutions. There are so many more things to say on this, many of which I’ve barely touched on.
+In the end hundreds of thousands of Americans have died over the past year because of a broken institution. There are so many more things to say on this, many of which I’ve barely touched on.
 
 * It’s hard to see the failure of the FDA as anything but confirmation of America as a ‘decadent society’ where institutions are incapable of doing little else but following mechanical scripts.
 * How could so much of our government capabilities be hollow without anyone being aware of it? It’s like Warren Buffet says, you only learn who is swimming without a bathing suit when the water goes out - what other parts of our government are naked?

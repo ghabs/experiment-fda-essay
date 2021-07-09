@@ -16,7 +16,7 @@ Relative to the companies it regulated, it was also one of the most powerful. As
 
 The FDA as Scarface imagery owes to the fact that the FDA is the sole gatekeeper of the pharmaceutical market. They certify drugs and medical trials, review the data, evaluate the purported efficacy, and can veto and prevent any drug or medical device from being sold in the US. There is little to no recourse if a drug is rejected; if they don't like it, you're done.
 
-No other regulatory agency in the US has this level of power, o solely decide which products can and can't enter the market. 
+No other regulatory agency in the US has this level of power, to solely decide which products can and can't enter the market. 
 
 And more than their explicit regulatory power, the FDA shapes the culture of medicine and medical science in the United States. Quoting again from Carpenter:
 
