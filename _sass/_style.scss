@@ -144,3 +144,19 @@ code {
   color: #ccc;
   cursor: help;
 }
+
+.nav-top a + a{
+  margin-left: 100px;
+}
+
+.image-wrapper {
+  text-align: center;
+  float: right;
+  margin: 20px;
+  padding: 20px;
+
+  .image-caption {
+      margin-top: 5px;
+      font-style: italic;
+  }
+}

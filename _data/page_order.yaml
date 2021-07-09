@@ -1,0 +1,50 @@
+page_title: TOC 
+pages:
+
+- title: Setting the Stage
+  url: setting-the-stage.html
+  order: 0
+
+- title: Initial Response
+  url: initial-response.html
+  order: 1
+
+- title: Preordained
+  url: preordained.html
+  order: 2
+
+- title: Testing Bottleneck
+  url: testing-bottlenecks.html
+  order: 3
+
+- title: Rapid Testing
+  url: rapid-testing.html
+  order: 4
+
+- title: Vaccines
+  url: vaccines.html
+  order: 5
+
+- title: Sabotaging the Rollout
+  url: sabotaging-the-rollout.html
+  order: 6
+
+- title: Commentary
+  url: commentary.html
+  order: 7
+
+- title: Human Challenge Trials
+  url: human-challenge-trials.html
+  order: 8
+
+- title: Capital Over People
+  url: capital-over-people.html
+  order: 9
+
+- title: A Better Way
+  url: a-better-way.html
+  order: 10
+
+- title: Conclusion
+  url: conclusion.html
+  order: 11

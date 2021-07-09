@@ -16,7 +16,7 @@ This was not a one-off failure of the FDA. Since the modern FDA was created in t
 
 I’d call this a critique of the FDA, but really, it’s more of a horror story, about a bureaucracy that elevated process over people and followed its internal incentives into catastrophe.
 
-Think the movie Brazil but less cool architecture. ![](assets/brazil.png)
+{% include image.html img="assets/brazil.png" caption="Think the movie Brazil but less cool architecture." %}
 
 The impetus for this project was a conversation with a friend during that interminable summer of 2020. In the midst of a conversation about the US's pandemic response, I expressed anger at the failure of the FDA, to which he expressed genuine incredulity. "These are some of the smartest people at the top of the medical profession - if they're failing it's because it's a hard problem!" (paraphrasing). 
 
@@ -26,20 +26,8 @@ My response at the time was to gesticulate wildly, waving my hands around to cap
 
 The following series of posts is that response, explaining the FDA, its role in America's response to COVID-19, and how mismanagement and the poor design of the FDA crippled our response.
 
-- [[Setting the Stage]]
-- [[Initial Response]]
-- [[Preordained]]
-- [[Testing Bottlenecks]]
-- [[Rapid Testing]]
-- [[Vaccines]]
-- [[Sabotaging the Rollout]]
-- [[Commentary]]
-- [[Human Challenge Trials]]
-- [[Capital Over People]]
-- [[A Better Way]]
-- [[Conclusion]]
+{% include toc.html %}
 
 The main path is the starting point of the argument, while there are ‘notes’ within sections that elaborate and expand upon certain contentions. Over time I hope to expand this to create a truly comprehensive depiction of how good intentions led us to where we are and how we can find our way out.
 
 ## [[Setting the Stage]]
-

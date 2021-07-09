@@ -1,0 +1,9 @@
+{% assign pages_list = site.data.page_order.pages | sort: 'order'  %}
+<ul>
+    {% for item in pages_list %}
+        {% if item.title == page.title % && page.title !== "Conclusion" %}
+        {% assign next = pages_list[{{forloop.index}}] %}
+        Next: <a class="internal-link" href="{{ next.url }}">{{ next.title }}</a>
+        {% endif %}
+    {% endfor %}
+ </ul>

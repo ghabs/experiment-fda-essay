@@ -1,0 +1,5 @@
+<ul>
+   {% for item in site.data.page_order.pages %}
+      <li><a class="internal-link" href="{{ item.url }}">{{ item.title }}</a></li>
+   {% endfor %}
+</ul>
